@@ -5,6 +5,9 @@ First and foremost, lets start describing the type of data we got. We got a Zoma
 *Few things to mention they were an specific amount of null and incomplete values. We address this issue using python through jupyter notebooks to handlin missing data.
 We perform Imputation to fill values with the mean of that particular column and some of the really incomplete data that did not represent more than the 5% was dropped.
 After creating a few more columns we get the following dashboard:
+
+
+
 1.
 Average Delivery Time by City: (Top Left Corner)
 o
